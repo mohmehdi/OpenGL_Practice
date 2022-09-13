@@ -7,3 +7,6 @@ another good resource : [learn opengl](https://learnopengl.com)
 
 libraries needed :  
 GLFW , GLEW , GLM 
+
+## preview
+![gif](game.gif)
